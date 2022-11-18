@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\bin\Debug\Fibbonacci.exe.config
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\bin\Debug\Fibbonacci.exe
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\bin\Debug\Fibbonacci.pdb
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\obj\Debug\Fibbonacci.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\obj\Debug\Fibbonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\obj\Debug\Fibbonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\obj\Debug\Fibbonacci.exe
+C:\Users\user\source\repos\Fibbonacci\Fibbonacci\obj\Debug\Fibbonacci.pdb
